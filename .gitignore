@@ -1,0 +1,5 @@
+venv
+OAI_CONFIG_LIST
+.cache
+.DS_Store
+__pycache__
